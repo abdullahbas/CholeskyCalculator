@@ -1,0 +1,10 @@
+C:\Users\trabz\source\repos\Akifff\Akifff\obj\Debug\Akifff.csprojResolveAssemblyReference.cache
+C:\Users\trabz\source\repos\Akifff\Akifff\obj\Debug\Akifff.Form1.resources
+C:\Users\trabz\source\repos\Akifff\Akifff\obj\Debug\Akifff.csproj.GenerateResource.cache
+C:\Users\trabz\source\repos\Akifff\Akifff\obj\Debug\Akifff.csproj.CoreCompileInputs.cache
+C:\Users\trabz\source\repos\Akifff\Akifff\obj\Debug\cholesky.Properties.Resources.resources
+C:\Users\trabz\source\repos\Akifff\Akifff\bin\Debug\cholesky.exe.config
+C:\Users\trabz\source\repos\Akifff\Akifff\bin\Debug\cholesky.exe
+C:\Users\trabz\source\repos\Akifff\Akifff\bin\Debug\cholesky.pdb
+C:\Users\trabz\source\repos\Akifff\Akifff\obj\Debug\cholesky.exe
+C:\Users\trabz\source\repos\Akifff\Akifff\obj\Debug\cholesky.pdb
